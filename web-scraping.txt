@@ -4,3 +4,17 @@ web-scraping steps
 2. url of the page of scrap 
 3. send the get request to the server
 4. print the scrap data
+
+
+
+csv file
+
+Comma-separated values (CSV) is a text file format that uses commas to separate values, 
+and newlines to separate records. A CSV file stores tabular data (numbers and text) in 
+plain text, where each line of the file typically represents one data record.
+
+
+
+
+
+
