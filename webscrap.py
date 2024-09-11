@@ -8,6 +8,8 @@ response = requests.get(url)
 if response.status_code==200:
     
     soup = BeautifulSoup(response.text, 'html.parser')
+    print(soup.text)
+    
     # title with tag
     print(soup.title)
     
