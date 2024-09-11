@@ -1,0 +1,6 @@
+web-scraping steps
+
+1. import required libs
+2. url of the page of scrap 
+3. send the get request to the server
+4. print the scrap data
